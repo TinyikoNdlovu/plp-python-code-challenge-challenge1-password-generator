@@ -2,8 +2,7 @@
 
 #CodeWednesdayChallenge
 The Code Challenge is where you get to work on certain projects or tasks to complete them within given time/duration.
-Join the discord server to communicate and share the code after the challenge: 
-https://discord.gg/K5yFxHvM
+
 
 Rules:
 Each Individual taking part Should have a Github account and name your folder according to the challenge you are working on. (e.g challenge1-password-generator)
